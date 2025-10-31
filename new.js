@@ -1,4 +1,5 @@
 console.log("Child branch")
 console.log("Hello Trends")
 console.log("new file")
-git ad
+console.log("main add")
+console.log("NEw line")
